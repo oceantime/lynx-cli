@@ -1,6 +1,7 @@
 # Lynx Command-Line Interface
 
 Lynx是一个使用Javascript来编写Android和iOS原生应用的框架。Lynx选用vue.js作为前端开发框架，当然因为Lynx兼容大部分DOM API，可以接入其他前端框架作为应用的基础开发框架
+<https://libraries.io/npm/lynx-cli>
 
 ## 安装
 
